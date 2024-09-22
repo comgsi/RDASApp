@@ -3,7 +3,7 @@
 # build.sh
 # 1 - determine host, load modules on supported hosts; proceed w/o otherwise
 # 2 - configure; build; install
-# 4 - optional, run unit tests
+# 3 - optional, run unit tests
 
 module purge
 set -eu
